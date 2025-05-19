@@ -37,5 +37,5 @@ A responsive web application that displays real-time market data (stocks, crypto
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/Marketlive.git
-   cd market-data-app
+   cd Marketlive
    
