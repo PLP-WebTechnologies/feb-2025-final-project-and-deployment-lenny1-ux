@@ -1,6 +1,6 @@
 # Final Project and Deployment
 
--https://lenny1-ux.github.io/Marketlive/
+- https://lenny1-ux.github.io/Marketlive/
 
 # Market Data Insights Dashboard
 
